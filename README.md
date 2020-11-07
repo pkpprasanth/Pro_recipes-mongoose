@@ -73,4 +73,10 @@ Oh oh! The `Carrot Cake` is no longer available, so we need to remove it from th
 
 After completing every task, you need to close the database. Otherwise, the connection will stay open until the node.js process dies. Pay attention to the asynchronicity of the operation. You should only close the connection after everything is done! :wink:
 
+
+### Output
+
+
+
+
 Happy coding! 💙
